@@ -242,4 +242,120 @@
 //   Console.WriteLine(car);
 // }
 
-Console.ReadKey();
+
+
+
+
+// string name = "Bro";
+// int age = 21;
+
+// singHappyBirhtday(name, age);
+
+
+
+
+
+// static void singHappyBirhtday(string birthdayBoy, int yearsOld)
+// {
+//   Console.WriteLine("Happy Birthday To You!");
+//   Console.WriteLine("Happy Birthday To You!");
+//   Console.WriteLine("Happy Birthday Dear " + birthdayBoy);
+//   Console.WriteLine("Happy Birthday To You!");
+//   Console.WriteLine("You're " + yearsOld + " years old");
+
+// }
+
+
+// double x;
+// double y;
+// double result;
+
+// Console.Write("Enter in number 1:");
+// x = Convert.ToDouble(Console.ReadLine());
+
+
+// Console.Write("Enter in number 2:");
+// y = Convert.ToDouble(Console.ReadLine());
+
+
+// result = Multiply(x, y);
+
+// Console.WriteLine(result);
+
+// Console.ReadKey();
+
+
+// static double Multiply(double x, double y)
+// {
+//   double z = x * y;
+//   return z;
+// }
+
+// static double Multiply(double x, double y, double z)
+// {
+//   double z = x * y;
+//   return z;
+// }
+// double total = CheckOut(1,2,3);
+// Console.WriteLine(total);
+
+// static double CheckOut(params double[] prices)
+// {
+//   double total = 0;
+
+//   foreach (double price in prices)
+//   {
+//     total += price;
+//   }
+//   return total;
+// }
+// double x;
+// double y;
+// double result;
+
+// try
+// {
+//   Console.Write("Enter number 1:");
+//   x = Convert.ToDouble(Console.ReadLine());
+
+//   Console.Write("Enter number 2: ");
+//   y = Convert.ToDouble(Console.ReadLine());
+
+//   result = x / y;
+
+//   Console.WriteLine("result: " + result);
+
+// }
+// catch (FormatException e)
+// {
+//   Console.WriteLine("Enter only numbers please");
+// }
+
+// catch (DivideByZeroException e)
+// {
+//   Console.WriteLine("Can't divide by zero");
+// }
+
+// catch (Exception e)
+// {
+//   Console.WriteLine("Can't divide by zero");
+// }
+// finally
+// {
+//   Console.WriteLine("THanks for visiting");
+// }
+
+// double temperature= 20;
+// string message;
+
+// if (temperature >= 20)
+// {
+//   message = "its cold outside";
+// }
+// else 
+// {
+//   message = "its warm outside";
+// }
+
+// Console.WriteLine(message);
+
