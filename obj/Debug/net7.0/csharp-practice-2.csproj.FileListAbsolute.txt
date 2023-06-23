@@ -1,0 +1,15 @@
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/bin/Debug/net7.0/csharp-practice-2
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/bin/Debug/net7.0/csharp-practice-2.deps.json
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/bin/Debug/net7.0/csharp-practice-2.runtimeconfig.json
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/bin/Debug/net7.0/csharp-practice-2.dll
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/bin/Debug/net7.0/csharp-practice-2.pdb
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/csharp-practice-2.csproj.AssemblyReference.cache
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/csharp-practice-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/csharp-practice-2.AssemblyInfoInputs.cache
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/csharp-practice-2.AssemblyInfo.cs
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/csharp-practice-2.csproj.CoreCompileInputs.cache
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/csharp-practice-2.dll
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/refint/csharp-practice-2.dll
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/csharp-practice-2.pdb
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/csharp-practice-2.genruntimeconfig.cache
+/home/pkay7691/Projects/2023/6-23/csharp-practice-2/obj/Debug/net7.0/ref/csharp-practice-2.dll
