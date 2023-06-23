@@ -137,5 +137,109 @@
 // Console.WriteLine(firstName);
 // Console.WriteLine(lastName);
 
+// Console.WriteLine("Please Enter your age:");
+// int age = Convert.ToInt32(Console.ReadLine());
+
+// if (age > 100)
+// {
+//   Console.WriteLine("You are too old");
+// }
+// else if (age >= 18)
+// {
+//   Console.WriteLine("You are now signed Up!");
+// }
+// else if (age < 0)
+// {
+//   Console.WriteLine("You haven't been born yet");
+// }
+// else
+// {
+//   Console.WriteLine("You too young fool");
+// }
+
+// Console.WriteLine("Please enter name");
+// string name = Console.ReadLine();
+
+// if (name == "")
+// {
+//   Console.WriteLine("Hello" + name);
+// }
+// else
+// {
+//   Console.WriteLine("You did not enter your name!");
+// }
+// Console.WriteLine("What day is it?");
+// string day = Console.ReadLine();
+
+// switch(day)
+// {
+//   case "Monday":
+//     Console.WriteLine("It's Monday");
+//     break;
+//   case "Tuesday":
+//     Console.WriteLine("It's Tuesday");
+//     break;
+//   case "Wednesday":
+//     Console.WriteLine("It's Wednesday");
+//     break;
+//   case "Thursday":
+//     Console.WriteLine("It's Thursday");
+//     break;
+//   case "Friday":
+//     Console.WriteLine("It's Friday");
+//     break;
+//   case "Saturday":
+//     Console.WriteLine("It's Saturday");
+//     break;
+//   case "Sunday":
+//     Console.WriteLine("It's Sunday");
+//     break;
+//  default:
+//     Console.WriteLine(day + " is not a day");
+//     break;
+// }
+// Console.WriteLine("Enter Your name:");
+// string name = Console.ReadLine();
+
+// while (name == "")
+// {
+//   Console.WriteLine("Enter Your name:");
+//   name = Console.ReadLine();
+// }
+
+// Console.WriteLine("Hello " + name);
+
+// for (int i = 0; i <= 10; i++) 
+// {
+//   Console.WriteLine(i);
+// }
+
+// int num = 0;
+// for (int i = 0; i <= 10; i++) 
+// {
+//   for (int j = 0; j <= 10; j++)
+//   {
+//     num++;
+//     Console.WriteLine(num);
+//   }
+// }
+
+
+// string[] cars = {"BMW", "Mustang", "Corvette"};
+// cars[0] = "Tesla";
+
+// Console.WriteLine(cars[0]);
+// Console.WriteLine(cars[1]);
+// Console.WriteLine(cars[2]);
+
+// for (int i = 0; i < cars.Length; i++)
+// {
+//   Console.WriteLine(cars[i]);
+// }
+
+// foreach(string car in cars)
+// {
+//   Console.WriteLine(car);
+// }
 
 Console.ReadKey();
